@@ -8,7 +8,7 @@
  Created Readme.md
  Intialized Readme.md
 
-#Milestone 2** : 
+# **Milestone 2** : 
 In today's live sessiom we did the following tasks :
 Created a structured folder hierarchy for the project.
 Set up a React app for the frontend and a Node.js server for the backend.
@@ -16,9 +16,19 @@ Configured Tailwind CSS for streamlined styling.
 
 Build a functional and styled Login Page for the frontend.
 
-Key features of milestone 2 
-Project Folder Structure: Learn to organize your project files into separate frontend and backend directories.
-React Frontend Setup: Initialize a React application for building the user interface.
-Node.js Backend Setup: Set up a simple Node.js server to prepare for API integration in future milestones.
-Tailwind CSS Configuration: Integrate and configure Tailwind CSS to enable modern, responsive, and utility-based styling.
-Login Page Development: Create the first user interface of your e-commerce application, focusing on both functionality and styling.
+# ***Milestone 3***
+**Backend Setup & Organization**
+
+Key Objectives ✅
+
+Set up dedicated folders for organizing backend code effectively.
+
+Initialized and configured a Node.js server to handle API requests.
+
+Connected the application to MongoDB for data storage.
+
+Implemented basic error handling for smooth server operation.
+
+Updated the README file to document progress.
+Note :-
+This milestone was completed as part of a live mentor-led session. The setup ensured a scalable and maintainable backend for future development.
