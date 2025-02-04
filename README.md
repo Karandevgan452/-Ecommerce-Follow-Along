@@ -7,6 +7,7 @@
 
  Created Readme.md
  Intialized Readme.md
+ Pushed Readme.md
 
 # **Milestone 2** : 
 In today's live sessiom we did the following tasks :
@@ -32,3 +33,12 @@ Implemented basic error handling for smooth server operation.
 Updated the README file to document progress.
 Note :-
 This milestone was completed as part of a live mentor-led session. The setup ensured a scalable and maintainable backend for future development.
+
+
+# ***Milestone 4 ***
+In today's live session , we did the following in milestone4
+
+ 1. Created a User Model: This is like a blueprint for how our users' data will be stored in the database.
+2. Created a User Controller: This will help us manage what happens with our user data (like adding a new user or getting their information).
+3. Enabled and configured Multer
+4. Updated the README.md file.
