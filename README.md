@@ -50,13 +50,30 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - Updated the **README.md** file with completed milestones.
 - Ensured user-friendly error messages and feedback mechanisms.
 
+## 🏆 Milestone 6: Secure Signup with Password Encryption
+- Developed a **backend endpoint** for the signup page.
+- Used **bcrypt** to hash user passwords before saving.
+- Stored all user data securely in the database with encrypted passwords.
+- Ensured compliance with security laws like **GDPR** and **PCI-DSS**.
+- Protected user data against password theft and unauthorized access.
+- Updated the **README.md** file with progress details.
+- Committed and pushed changes to the **GitHub repository**.
+
 ---
 
-# 🛠 Tech Stack
+# 🤦🏻‍♂️ Why Encrypt Passwords?
+- 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
+- ⚖️ **Privacy**: Prevents passwords from being visible to anyone.
+- 📃 **Compliance**: Meets security standards like **GDPR** and **PCI-DSS**.
+- 🔧 **Prevents Password Theft**: Hashed passwords are much harder to crack.
+
+---
+
+# 🧭 Tech Stack
 ### **Frontend:**
-- ⚛ React.js / Next.js
+- ⚫ React.js / Next.js
 - 🎨 Tailwind CSS / Bootstrap
-- 🛠 Redux (for state management)
+- 🧭 Redux (for state management)
 
 ### **Backend:**
 - 🖥 Node.js / Express.js
