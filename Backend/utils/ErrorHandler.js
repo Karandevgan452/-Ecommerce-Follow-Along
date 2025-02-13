@@ -1,5 +1,7 @@
 // Define the ErrorHandler class that extends the built-in Error class
+
 // This allows for custom error handling with additional properties like statusCode
+
 class ErrorHandler extends Error {
     constructor(message, statusCode) {
         // Call the parent class constructor with the error message
@@ -15,4 +17,5 @@ class ErrorHandler extends Error {
 }
 
 // Export the ErrorHandler class so it can be used in other parts of the application
+
 module.exports = ErrorHandler;

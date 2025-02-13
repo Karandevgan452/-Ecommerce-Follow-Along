@@ -4,8 +4,8 @@ const ErrorHandler = require("./middleware/error");
 const cookieParser = require("cookie-parser");
 const bodyParser = require("body-parser");
 const cors = require("cors");
-const product= require('./controller/product')
-const path=require('path')
+const product= require('./controller/product');
+const path=require('path');
 
 app.use(express.json());
 app.use(cookieParser());
