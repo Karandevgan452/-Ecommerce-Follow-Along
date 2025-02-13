@@ -1,4 +1,4 @@
-# 🛒 E-commerce Project
+# 🛂 E-commerce Project
 
 Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website** built with modern frontend and backend technologies. The objective of this project is to create a seamless online shopping experience, featuring product listings, user authentication, shopping cart functionality, and secure payment processing.
 
@@ -8,7 +8,7 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - 🛒 **Shopping Cart** – Add/remove products and manage your cart effortlessly.
 - 🏦 **Secure Payments** – Integrated payment gateway for smooth transactions.
 - 🔒 **User Authentication** – Sign up, log in, and manage user accounts securely.
-- 🚚 **Order Tracking** – Monitor orders in real-time with status updates.
+- 🛂 **Order Tracking** – Monitor orders in real-time with status updates.
 
 ---
 
@@ -59,25 +59,34 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - Updated the **README.md** file with progress details.
 - Committed and pushed changes to the **GitHub repository**.
 
+## 🏆 Milestone 7: Secure Login with Password Verification
+- Developed a **backend endpoint** for user login.
+- Implemented **user authentication** by validating credentials.
+- Used **bcrypt** to compare hashed passwords securely.
+- Ensured compliance with **security standards** like GDPR and PCI-DSS.
+- Returned appropriate error messages for **invalid credentials**.
+- Updated the **README.md** file with progress details.
+- Committed and pushed changes to the **GitHub repository**.
+
 ---
 
-# 🤦🏻‍♂️ Why Encrypt Passwords?
+# 🤮 Why Encrypt Passwords?
 - 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
 - ⚖️ **Privacy**: Prevents passwords from being visible to anyone.
-- 📃 **Compliance**: Meets security standards like **GDPR** and **PCI-DSS**.
+- 📛 **Compliance**: Meets security standards like **GDPR** and **PCI-DSS**.
 - 🔧 **Prevents Password Theft**: Hashed passwords are much harder to crack.
 
 ---
 
-# 🧭 Tech Stack
+# 🧕🏻 Tech Stack
 ### **Frontend:**
 - ⚫ React.js / Next.js
 - 🎨 Tailwind CSS / Bootstrap
-- 🧭 Redux (for state management)
+- 🧑‍🌍 Redux (for state management)
 
 ### **Backend:**
 - 🖥 Node.js / Express.js
-- 🟢 MongoDB
+- 🔷 MongoDB
 - 🔑 JWT Authentication
 
 ### **Other Tools & Services:**

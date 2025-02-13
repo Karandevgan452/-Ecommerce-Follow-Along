@@ -29,3 +29,4 @@ export default function Product({ name, images, description, price }) {
       </div>
     );
   }
+  
