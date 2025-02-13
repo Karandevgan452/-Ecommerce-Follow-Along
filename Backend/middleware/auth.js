@@ -1,5 +1,6 @@
 // Import the ErrorHandler class from the utils/ErrorHandler module
 // This is used for creating and throwing custom errors
+
 const ErrorHandler = require("../utils/ErrorHandler");
 
 // Import the catchAsyncErrors utility

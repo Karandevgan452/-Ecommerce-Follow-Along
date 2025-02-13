@@ -11,6 +11,7 @@ const sendMail = async (options) => {
                 pass: process.env.SMTP_PASSWORD
             }
         });
+        
         let mailOptions = {
             from: process.env.SMTP_EMAIL,
             to: options.email,

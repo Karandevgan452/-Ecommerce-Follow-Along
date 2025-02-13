@@ -9,6 +9,7 @@ module.exports = (err, req, res, next) => {
     err.statusCode = err.statusCode || 500; // Default to 500 (Internal Server Error) if no status code is provided
     err.message = err.message || "Internal server Error"; // Default message for errors
  
+    
     // Handle invalid MongoDB ObjectId errors
     if (err.name === "CastError") {
         const message = `Resources not found with this id. Invalid ${err.path}`;
