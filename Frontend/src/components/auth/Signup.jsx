@@ -19,6 +19,7 @@ const Signup = () => {
       setAvatar(file);
     }
   };
+  
   const validateFields = () => {
     const nameError = ValidationFormObject.validteName(name);
     const emailError = ValidationFormObject.validteEmail(email);

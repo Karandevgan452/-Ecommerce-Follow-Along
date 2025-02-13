@@ -37,9 +37,6 @@ const Login = () => {
               </div>
             </div>
 
-
-
-
             <div>
               <label
                 htmlFor="password"
