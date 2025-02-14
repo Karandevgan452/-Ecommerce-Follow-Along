@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+
 export default function Product({ name, images, description, price }) {
   const [currentIndex, setCurrentIndex] = useState(0);
   useEffect(() => {
@@ -27,5 +28,7 @@ export default function Product({ name, images, description, price }) {
           </button>
         </div>
       </div>
+
     );
+    
   }
