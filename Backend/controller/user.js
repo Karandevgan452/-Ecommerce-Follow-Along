@@ -51,6 +51,7 @@ router.post(
       res.status(201).json({ success: true, user });
     })
   );
+  
 
   router.post("/login", catchAsyncErrors(async (req, res, next) => {
     console.log("Logging in user...");
@@ -75,5 +76,6 @@ router.post(
         user,
     });
 }));
+
 module.exports = router;
  

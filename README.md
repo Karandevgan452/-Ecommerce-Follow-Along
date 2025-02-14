@@ -68,17 +68,26 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - Updated the **README.md** file with progress details.
 - Committed and pushed changes to the **GitHub repository**.
 
+## 🏆 Milestone 8: Product Card Component and Homepage Design
+- Designed a **reusable Product Card Component** to display product details.
+- Implemented **props** to pass product information dynamically (e.g., name, price, image).
+- Used **array mapping** to display multiple products efficiently.
+- Designed a **structured homepage layout** with a clean and visually appealing UI.
+- Ensured **responsiveness** using CSS Grid or Flexbox.
+- Updated the **README.md** file with progress details.
+- Committed and pushed changes to the **GitHub repository**.
+
 ---
 
 # 🤮 Why Encrypt Passwords?
 - 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
 - ⚖️ **Privacy**: Prevents passwords from being visible to anyone.
-- 📛 **Compliance**: Meets security standards like **GDPR** and **PCI-DSS**.
+- 💻 **Compliance**: Meets security standards like **GDPR** and **PCI-DSS**.
 - 🔧 **Prevents Password Theft**: Hashed passwords are much harder to crack.
 
 ---
 
-# 🧕🏻 Tech Stack
+# 🤝 Tech Stack
 ### **Frontend:**
 - ⚫ React.js / Next.js
 - 🎨 Tailwind CSS / Bootstrap
@@ -96,7 +105,7 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 
 ---
 
-# 🎯 Roadmap
+# 🌟 Roadmap
 - [ ] Add product reviews & ratings ⭐
 - [ ] Implement wishlists ❤
 - [ ] Introduce AI-powered recommendations 🤖
