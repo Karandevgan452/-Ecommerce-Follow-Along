@@ -77,6 +77,14 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - Updated the **README.md** file with progress details.
 - Committed and pushed changes to the **GitHub repository**.
 
+## 🏆 Milestone 9: Product Form Creation and Multiple Image Uploads
+- Created a **Product Form** for adding products, including fields for name, description, price, and images.
+- Integrated the form with the backend to **store product details** in the database.
+- Enabled **multiple image uploads** using HTML's `<input type="file" multiple>` and Multer for handling uploads on the server.
+- Experimented with additional features like **admin access**, allowing only authorized users to add products.
+- Updated the **README.md** file with progress details.
+- Committed and pushed changes to the **GitHub repository**.
+
 ---
 
 # 🤮 Why Encrypt Passwords?
@@ -115,4 +123,3 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - [ ] Enable social media authentication 👤
 - [ ] Optimize website performance & SEO 🌐
 - [ ] Introduce PWA support for a mobile-friendly experience 📱
-
