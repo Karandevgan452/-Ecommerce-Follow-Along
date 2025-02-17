@@ -85,6 +85,15 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - Updated the **README.md** file with progress details.
 - Committed and pushed changes to the **GitHub repository**.
 
+## 🏆 Milestone 10: Product Schema Creation and Endpoint for Storing Products
+- Created a **Mongoose Schema** for products, defining the structure of the product data (e.g., name, description, price, image URL).
+- Added **validation** to ensure proper data input (e.g., required fields, correct data types).
+- Built a **POST endpoint** to receive product data, validate it, and store it in the MongoDB database.
+- Ensured **data integrity** by validating input before saving the product details.
+- Experimented with adding **admin access** for uploading products (admin-only access).
+- Updated the **README.md** file with progress details.
+- Committed and pushed changes to the **GitHub repository**.
+
 ---
 
 # 🤮 Why Encrypt Passwords?
