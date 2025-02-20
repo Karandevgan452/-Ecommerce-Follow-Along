@@ -94,7 +94,19 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - Updated the **README.md** file with progress details.
 - Committed and pushed changes to the **GitHub repository**.
 
+
+## 🏆 Milestone 11: Dynamic Homepage with Product Data
+- Developed a **backend endpoint** to fetch all product data stored in MongoDB.
+- Configured the endpoint to send product data to the frontend efficiently.
+- Created a **frontend function** to retrieve product data from the backend API.
+- Dynamically displayed products on the homepage using the **Product Card Component** created in Milestone 8.
+- Passed product data (e.g., name, price, image) as **props** to render multiple products seamlessly.
+- Focused on understanding how to **send and receive data** between backend and frontend.
+- Ensured the homepage is responsive and visually appealing.
+- Updated the **README.md** file with progress details.
+- Committed and pushed changes to the **GitHub repository**.
 ---
+
 
 # 🤮 Why Encrypt Passwords?
 - 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
