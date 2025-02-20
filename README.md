@@ -1,4 +1,4 @@
-# 🛂 E-commerce Project
+# 🛢 E-commerce Project
 
 Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website** built with modern frontend and backend technologies. The objective of this project is to create a seamless online shopping experience, featuring product listings, user authentication, shopping cart functionality, and secure payment processing.
 
@@ -8,7 +8,7 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - 🛒 **Shopping Cart** – Add/remove products and manage your cart effortlessly.
 - 🏦 **Secure Payments** – Integrated payment gateway for smooth transactions.
 - 🔒 **User Authentication** – Sign up, log in, and manage user accounts securely.
-- 🛂 **Order Tracking** – Monitor orders in real-time with status updates.
+- 🛢 **Order Tracking** – Monitor orders in real-time with status updates.
 
 ---
 
@@ -94,7 +94,6 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - Updated the **README.md** file with progress details.
 - Committed and pushed changes to the **GitHub repository**.
 
-
 ## 🏆 Milestone 11: Dynamic Homepage with Product Data
 - Developed a **backend endpoint** to fetch all product data stored in MongoDB.
 - Configured the endpoint to send product data to the frontend efficiently.
@@ -105,8 +104,18 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - Ensured the homepage is responsive and visually appealing.
 - Updated the **README.md** file with progress details.
 - Committed and pushed changes to the **GitHub repository**.
----
 
+
+## 🏆 Milestone 12: Shopping Cart Functionality
+- Implemented **shopping cart functionality** for users to add and remove products.
+- Stored cart data in **local storage** to persist items across sessions.
+- Connected the cart with **Redux** for better state management.
+- Displayed the cart items dynamically on the **Cart Page**.
+- Implemented a **checkout button** to proceed to payment.
+- Ensured smooth **frontend-backend integration** for cart operations.
+- Updated the **README.md** file with progress details.
+- Committed and pushed changes to the **GitHub repository**.
+---
 
 # 🤮 Why Encrypt Passwords?
 - 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
