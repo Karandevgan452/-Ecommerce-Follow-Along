@@ -115,6 +115,19 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - Ensured smooth **frontend-backend integration** for cart operations.
 - Updated the **README.md** file with progress details.
 - Committed and pushed changes to the **GitHub repository**.
+
+---
+
+## 🏆 Milestone 13: Edit Product Functionality
+
+- Implemented an **Edit** button on each product card.
+- Created a **backend endpoint** to update existing product data in MongoDB.
+- Auto-filled the **Product Form** with existing data when editing.
+- Allowed users to **modify product details** and save changes.
+- Ensured **proper data validation** before updating.
+- Updated the **README.md** file with progress details.
+- Committed and pushed changes to the **GitHub repository**.
+
 ---
 
 # 🤮 Why Encrypt Passwords?
