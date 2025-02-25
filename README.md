@@ -130,6 +130,19 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 
 ---
 
+## 🏆 Milestone 14: Delete Product Functionality  
+
+- Implemented a **Delete** button on each product card.  
+- Created a **backend endpoint** to delete a product from MongoDB using its **ID**.  
+- Ensured that clicking the **Delete** button sends the **product ID** to the server.  
+- Successfully removed the product from the **database** upon confirmation.  
+- Implemented **error handling** to prevent accidental deletions.  
+- Updated the **README.md** file with progress details.  
+- Committed and pushed changes to the **GitHub repository**.  
+
+---
+
+
 # 🤮 Why Encrypt Passwords?
 - 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
 - ⚖️ **Privacy**: Prevents passwords from being visible to anyone.
