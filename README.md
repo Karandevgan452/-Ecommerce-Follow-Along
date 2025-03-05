@@ -141,6 +141,21 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - Committed and pushed changes to the **GitHub repository**.  
 
 ---
+ 
+
+## 🏆 Milestone 15: Navbar Component and Navigation  
+- Designed and implemented a **responsive Navbar Component** for seamless navigation.  
+- Added essential navigation links:  
+  - 🏠 **Home** – Browse products.  
+  - 📦 **My Products** – View and manage listed products.  
+  - ➕ **Add Product** – Add new products to the store.  
+  - 🛒 **Cart** – View selected items before checkout.  
+- Used **React Router** for dynamic navigation between pages.  
+- Integrated **user authentication checks** to conditionally show login/logout options.  
+- Ensured **mobile responsiveness** with a hamburger menu for smaller screens.  
+- Implemented **active link highlighting** to improve user experience.  
+- Committed and pushed all updates to the **GitHub repository**.  
+- Updated the **README.md** file with progress details.  
 
 
 # 🤮 Why Encrypt Passwords?
