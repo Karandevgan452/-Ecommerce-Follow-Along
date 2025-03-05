@@ -157,6 +157,17 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - Committed and pushed all updates to the **GitHub repository**.  
 - Updated the **README.md** file with progress details.  
 
+## 🏆 Milestone 16: Product Info Page with Add to Cart  
+
+### 🎯 Tasks Completed:
+- Created a **dedicated product info page** to display detailed product information.  
+- Dynamically fetched and displayed product details using **React Router parameters**.  
+- Added a **quantity selector** to allow users to choose the number of items they want to buy.  
+- Implemented an **"Add to Cart" button** that updates the shopping cart state.  
+- Integrated the cart functionality with the global state (**Redux or Context API**) for persistent cart management.  
+- Ensured **responsive design** for a smooth user experience on all devices.  
+- Updated the **README.md** file with milestone progress.  
+- Committed and pushed changes to the **GitHub repository**.  
 
 # 🤮 Why Encrypt Passwords?
 - 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
