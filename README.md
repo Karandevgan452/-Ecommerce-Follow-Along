@@ -174,14 +174,22 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 ## Milestone 17: Implementing Cart Functionality
 In this milestone, we successfully implemented the cart functionality by:
 
- -Updating the User Schema to store cart products.
- -Creating a Cart Schema to store product details in the cart.
- -Writing a backend endpoint to receive product details and store them in the database.
- -Testing the API endpoint using Postman to ensure proper functionality.
- After implementation ,
- - Updated the **README.md** file with milestone progress.  
- - Committed and pushed changes to the **GitHub repository**. 
+ - Updating the User Schema to store cart products.
+ - Creating a Cart Schema to store product details in the cart.
+ - Writing a backend endpoint to receive product details and store them in the database.
+ - Testing the API endpoint using Postman to ensure proper functionality.
+ - Updating the **README.md** file with milestone progress.  
+ - Committing and pushing changes to the **GitHub repository**. 
 
+ ## Milestone 18: Fetching User Cart Data
+In this milestone, we successfully implemented the backend endpoint for the cart page by:
+
+- Creating an API endpoint to fetch all products inside a user's cart.
+- Fetching cart details using the user's email.
+- Writing backend logic to retrieve the cart data from the database.
+- Testing the API endpoint using Postman to ensure it returns correct cart data.
+- Updating the **README.md** file with milestone progress.  
+- Committing and pushing changes to the **GitHub repository**. 
 
 # 🤮 Why Encrypt Passwords?
 - 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
