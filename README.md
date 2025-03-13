@@ -191,6 +191,19 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 - Updating the **README.md** file with milestone progress.  
 - Committing and pushing changes to the **GitHub repository**. 
 
+---
+
+## 🏆 Milestone 19: Cart Page with Quantity Management  
+- Created a **Cart Page** to display the products inside the cart using the **cart endpoint** built in Milestone 18.  
+- Implemented **+ and - buttons** for each product to allow users to **increase or decrease quantity**.  
+- Developed **backend endpoints** to update the product quantity dynamically.  
+- Ensured that the cart updates in **real-time** when modifying quantities.  
+- Improved **UI/UX for cart management** to enhance the shopping experience.  
+- Updated the **README.md** file with milestone progress.  
+- Committed and pushed changes to the **GitHub repository**.  
+
+
+
 # 🤮 Why Encrypt Passwords?
 - 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
 - ⚖️ **Privacy**: Prevents passwords from being visible to anyone.
