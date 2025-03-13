@@ -202,7 +202,16 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 - Updated the **README.md** file with milestone progress.  
 - Committed and pushed changes to the **GitHub repository**.  
 
-
+---
+## 🏆 Milestone 20: Profile Page with User Data Display  
+- Created a **backend endpoint** to send all user data, including email and addresses.  
+- Developed a **frontend profile page** to display user details dynamically.  
+- Displayed **profile photo, name, and email** in a dedicated section.  
+- Added an **address section** with an **"Add Address"** button.  
+- Displayed **"No address found"** when no address is available.  
+- Ensured smooth UI/UX for an improved user experience.  
+- Updated the **README.md** file with milestone progress.  
+- Committed and pushed changes to the **GitHub repository**.  
 
 # 🤮 Why Encrypt Passwords?
 - 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
