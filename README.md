@@ -116,8 +116,6 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - Updated the **README.md** file with progress details.
 - Committed and pushed changes to the **GitHub repository**.
 
----
-
 ## 🏆 Milestone 13: Edit Product Functionality
 
 - Implemented an **Edit** button on each product card.
@@ -128,7 +126,6 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - Updated the **README.md** file with progress details.
 - Committed and pushed changes to the **GitHub repository**.
 
----
 
 ## 🏆 Milestone 14: Delete Product Functionality  
 
@@ -140,8 +137,6 @@ Welcome to the **E-commerce Project**! This is a full-stack **E-commerce Website
 - Updated the **README.md** file with progress details.  
 - Committed and pushed changes to the **GitHub repository**.  
 
----
- 
 
 ## 🏆 Milestone 15: Navbar Component and Navigation  
 - Designed and implemented a **responsive Navbar Component** for seamless navigation.  
@@ -191,7 +186,7 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 - Updating the **README.md** file with milestone progress.  
 - Committing and pushing changes to the **GitHub repository**. 
 
----
+
 
 ## 🏆 Milestone 19: Cart Page with Quantity Management  
 - Created a **Cart Page** to display the products inside the cart using the **cart endpoint** built in Milestone 18.  
@@ -202,7 +197,7 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 - Updated the **README.md** file with milestone progress.  
 - Committed and pushed changes to the **GitHub repository**.  
 
----
+
 ## 🏆 Milestone 20: Profile Page with User Data Display  
 - Created a **backend endpoint** to send all user data, including email and addresses.  
 - Developed a **frontend profile page** to display user details dynamically.  
@@ -212,6 +207,18 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 - Ensured smooth UI/UX for an improved user experience.  
 - Updated the **README.md** file with milestone progress.  
 - Committed and pushed changes to the **GitHub repository**.  
+
+
+## 🏆 Milestone 21: Address Form Implementation  
+- Created a **frontend address form** to capture user address details.  
+- Included fields for **country, city, address1, address2, zip code, and address type**.  
+- Implemented **state management** to store input address data.  
+- Enabled **navigation from the profile page** to the address form when clicking "Add Address."  
+- Ensured a **user-friendly interface** for smooth address input.  
+- Updated the **README.md** file with milestone progress.  
+- Committed and pushed changes to the **GitHub repository**.  
+
+
 
 # 🤮 Why Encrypt Passwords?
 - 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
