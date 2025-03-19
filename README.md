@@ -218,6 +218,13 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 - Updated the **README.md** file with milestone progress.  
 - Committed and pushed changes to the **GitHub repository**.  
 
+## 🏆 Milestone 22: Storing User Address in Database  
+- Implemented a **backend endpoint** to receive address data from the frontend form.  
+- Stored the received address inside the **user's profile in the database**.  
+- Address data is now **added to the address array** inside the user collection.  
+- Ensured proper **request validation and error handling** for robustness.  
+- Updated the **README.md** file with milestone progress.  
+- Committed and pushed changes to the **GitHub repository**.  
 
 
 # 🤮 Why Encrypt Passwords?
