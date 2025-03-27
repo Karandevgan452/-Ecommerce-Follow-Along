@@ -226,6 +226,16 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 - Updated the **README.md** file with milestone progress.  
 - Committed and pushed changes to the **GitHub repository**.  
 
+## 🏆 Milestone 23: Implementing Place Order & Order Schema  
+
+✅ **Added a "Place Order" button** inside the cart page.  
+✅ **Created a "Select Address" page** where users can view and select their delivery address.  
+✅ **Implemented a backend endpoint** to retrieve all saved addresses of the user.  
+✅ **Designed Mongoose Schema for Orders** to store order details in the database.  
+✅ Ensured **smooth navigation** from the cart page to the select address page.  
+✅ Updated the **README.md** file with milestone progress.  
+✅ Committed and pushed changes to the **GitHub repository**.  
+
 
 # 🤮 Why Encrypt Passwords?
 - 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
