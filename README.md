@@ -218,6 +218,23 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 - Updated the **README.md** file with milestone progress.  
 - Committed and pushed changes to the **GitHub repository**.  
 
+## 🏆 Milestone 22: Storing User Address in Database  
+- Implemented a **backend endpoint** to receive address data from the frontend form.  
+- Stored the received address inside the **user's profile in the database**.  
+- Address data is now **added to the address array** inside the user collection.  
+- Ensured proper **request validation and error handling** for robustness.  
+- Updated the **README.md** file with milestone progress.  
+- Committed and pushed changes to the **GitHub repository**.  
+
+## 🏆 Milestone 23: Implementing Place Order & Order Schema  
+
+✅ **Added a "Place Order" button** inside the cart page.  
+✅ **Created a "Select Address" page** where users can view and select their delivery address.  
+✅ **Implemented a backend endpoint** to retrieve all saved addresses of the user.  
+✅ **Designed Mongoose Schema for Orders** to store order details in the database.  
+✅ Ensured **smooth navigation** from the cart page to the select address page.  
+✅ Updated the **README.md** file with milestone progress.  
+✅ Committed and pushed changes to the **GitHub repository**.  
 
 
 # 🤮 Why Encrypt Passwords?
