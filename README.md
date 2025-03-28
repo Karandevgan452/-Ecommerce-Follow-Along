@@ -236,6 +236,18 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 ✅ Updated the **README.md** file with milestone progress.  
 ✅ Committed and pushed changes to the **GitHub repository**.  
 
+🏆 **Milestone 24: Implementing Order Confirmation Page**  
+
+✅ Created an **Order Confirmation** page to display order details.  
+✅ Displayed **all products** in the order along with their quantity and price.  
+✅ Showcased the **selected delivery address** for user confirmation.  
+✅ Calculated and displayed the **total cart value** before placing the order.  
+✅ Added a **"Place Order"** button at the bottom for order submission.  
+✅ Ensured smooth **navigation** from the "Select Address" page to the "Order Confirmation" page.  
+✅ Updated the **README.md** file with milestone progress.  
+✅ Committed and pushed changes to the **GitHub repository**. 
+
+
 
 # 🤮 Why Encrypt Passwords?
 - 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
