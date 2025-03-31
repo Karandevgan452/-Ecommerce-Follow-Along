@@ -228,36 +228,50 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 
 ## 🏆 Milestone 23: Implementing Place Order & Order Schema  
 
-✅ **Added a "Place Order" button** inside the cart page.  
-✅ **Created a "Select Address" page** where users can view and select their delivery address.  
-✅ **Implemented a backend endpoint** to retrieve all saved addresses of the user.  
-✅ **Designed Mongoose Schema for Orders** to store order details in the database.  
-✅ Ensured **smooth navigation** from the cart page to the select address page.  
-✅ Updated the **README.md** file with milestone progress.  
-✅ Committed and pushed changes to the **GitHub repository**.  
+- **Added a "Place Order" button** inside the cart page.  
+- **Created a "Select Address" page** where users can view and select their delivery address.  
+- **Implemented a backend endpoint** to retrieve all saved addresses of the user.  
+- **Designed Mongoose Schema for Orders** to store order details in the database.  
+- Ensured **smooth navigation** from the cart page to the select address page.  
+- Updated the **README.md** file with milestone progress.  
+- Committed and pushed changes to the **GitHub repository**.  
 
 🏆 **Milestone 24: Implementing Order Confirmation Page**  
 
-✅ Created an **Order Confirmation** page to display order details.  
-✅ Displayed **all products** in the order along with their quantity and price.  
-✅ Showcased the **selected delivery address** for user confirmation.  
-✅ Calculated and displayed the **total cart value** before placing the order.  
-✅ Added a **"Place Order"** button at the bottom for order submission.  
-✅ Ensured smooth **navigation** from the "Select Address" page to the "Order Confirmation" page.  
-✅ Updated the **README.md** file with milestone progress.  
-✅ Committed and pushed changes to the **GitHub repository**. 
+- Created an **Order Confirmation** page to display order details.  
+- Displayed **all products** in the order along with their quantity and price.  
+- Showcased the **selected delivery address** for user confirmation.  
+- Calculated and displayed the **total cart value** before placing the order.  
+- Added a **"Place Order"** button at the bottom for order submission.  
+- Ensured smooth **navigation** from the "Select Address" page to the "Order Confirmation" page.  
+- Updated the **README.md** file with milestone progress.  
+- Committed and pushed changes to the **GitHub repository**. 
 
 
 🏆 **Milestone 25: Implementing Backend Endpoint for Placing Orders**  
 
-✅ Created a **backend endpoint** to handle order placement.  
-✅ Designed the API to receive **products, user details, and address details** from the frontend.  
-✅ Extracted the **user's ID** using their email from the database.  
-✅ Ensured each **product is stored as a separate order** with the same delivery address.  
-✅ Used the previously created **Order Schema** to store order details in the MongoDB `orders` collection.  
-✅ Successfully integrated the endpoint with the **frontend order confirmation flow**.  
-✅ Updated the **README.md** file with milestone progress.  
-✅ Committed and pushed changes to the **GitHub repository**. 🚀  
+- Created a **backend endpoint** to handle order placement.  
+- Designed the API to receive **products, user details, and address details** from the frontend.  
+- Extracted the **user's ID** using their email from the database.  
+- Ensured each **product is stored as a separate order** with the same delivery address.  
+- Used the previously created **Order Schema** to store order details in the MongoDB `orders` collection.  
+- Successfully integrated the endpoint with the **frontend order confirmation flow**.  
+- Updated the **README.md** file with milestone progress.  
+- Committed and pushed changes to the **GitHub repository**. 🚀  
+
+🏆 **Milestone 26: Implementing Backend Endpoint to Fetch User Orders**  
+
+### **Achievements**  
+ - Created a **backend endpoint** to retrieve all orders for a specific user.  
+ - Designed the API to **receive the user's email** as input.  
+-  Extracted the **user's ID** from the database using the provided email.  
+-  Retrieved all **orders associated with the user** from the MongoDB `orders` collection.  
+-  Sent the **user's order history** in the API response.  
+-  Ensured smooth integration with the **frontend order history page**.  
+-  Updated the **README.md** file with milestone progress.  
+-  Committed and pushed changes to the **GitHub repository**. 🚀  
+
+
 
 
 # 🤮 Why Encrypt Passwords?
