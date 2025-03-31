@@ -248,6 +248,17 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 ✅ Committed and pushed changes to the **GitHub repository**. 
 
 
+🏆 **Milestone 25: Implementing Backend Endpoint for Placing Orders**  
+
+✅ Created a **backend endpoint** to handle order placement.  
+✅ Designed the API to receive **products, user details, and address details** from the frontend.  
+✅ Extracted the **user's ID** using their email from the database.  
+✅ Ensured each **product is stored as a separate order** with the same delivery address.  
+✅ Used the previously created **Order Schema** to store order details in the MongoDB `orders` collection.  
+✅ Successfully integrated the endpoint with the **frontend order confirmation flow**.  
+✅ Updated the **README.md** file with milestone progress.  
+✅ Committed and pushed changes to the **GitHub repository**. 🚀  
+
 
 # 🤮 Why Encrypt Passwords?
 - 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
