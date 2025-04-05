@@ -271,6 +271,18 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 -  Updated the **README.md** file with milestone progress.  
 -  Committed and pushed changes to the **GitHub repository**. 🚀  
 
+🏆 **Milestone 27: Creating My Orders Page (Frontend)**
+
+
+- Created a dedicated **`My Orders` page** in the frontend.  
+- Integrated the **GET request** to the `/my-orders` endpoint from the previous milestone.  
+- Passed the **user’s email** in the request to fetch relevant order data.  
+- Displayed all the **user’s orders** including products, address, and total value.  
+- Added **navigation to "My Orders" page** from the Navbar for better UX.  
+ Ensured smooth UI rendering for **order history**.  
+- Updated the **README.md** file summarizing milestone progress.  
+- Committed and pushed all changes to the **GitHub repository**. 🚀
+
 
 
 
