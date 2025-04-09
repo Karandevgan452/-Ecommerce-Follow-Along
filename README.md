@@ -272,8 +272,6 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 -  Committed and pushed changes to the **GitHub repository**. 🚀  
 
 🏆 **Milestone 27: Creating My Orders Page (Frontend)**
-
-
 - Created a dedicated **`My Orders` page** in the frontend.  
 - Integrated the **GET request** to the `/my-orders` endpoint from the previous milestone.  
 - Passed the **user’s email** in the request to fetch relevant order data.  
@@ -284,16 +282,28 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 - Committed and pushed all changes to the **GitHub repository**. 🚀
 
 🏆 **Milestone 28: Cancel Order Functionality**
-
-### **Achievements**
 - Added a **"Cancel Order" button** for each order in the `My Orders` page UI.  
 - Ensured the **Cancel button is hidden** if the order is already marked as "Cancelled".  
 - Created a **backend endpoint** to handle canceling orders via `order-id`.  
-- Implemented logic to **fetch order by ID**, update its status to `"Cancelled"` and save it in the database.  
+- Implemented logic to **fetch order by ID**, update its status to `"Cancelled"` and save it in the    database.  
 - Connected the frontend cancel button to the backend cancel order API.  
 - Provided instant **UI feedback** after canceling an order.  
 - Updated the **README.md** with Milestone 28 progress.  
 - Committed and pushed all the changes to the **GitHub repository**. 
+
+🏆 **Milestone 29: Integrating PayPal for Online Payments**
+
+### **Achievements**
+- Created and set up a **PayPal developer account**.  
+- Generated **Sandbox Account** and obtained **Client ID** for integration.  
+- Saved **PayPal Sandbox User ID** and **Client ID** for future use.  
+- Added **payment method options (COD and Online Payment)** on the order confirmation page.  
+- Implemented **radio buttons** for users to select between **Cash on Delivery (COD)** and **Online Payment**.  
+- Configured the frontend to **conditionally render PayPal button placeholder** when "Online Payment" is selected.  
+- Prepared the frontend for PayPal button integration in the next milestone.  
+- Updated the **README.md** with milestone progress.  
+- Committed and pushed changes to the **GitHub repository**. 🚀
+
 
 
 # 🤮 Why Encrypt Passwords?
