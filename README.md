@@ -283,7 +283,17 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 - Updated the **README.md** file summarizing milestone progress.  
 - Committed and pushed all changes to the **GitHub repository**. 🚀
 
+🏆 **Milestone 28: Cancel Order Functionality**
 
+### **Achievements**
+- Added a **"Cancel Order" button** for each order in the `My Orders` page UI.  
+- Ensured the **Cancel button is hidden** if the order is already marked as "Cancelled".  
+- Created a **backend endpoint** to handle canceling orders via `order-id`.  
+- Implemented logic to **fetch order by ID**, update its status to `"Cancelled"` and save it in the database.  
+- Connected the frontend cancel button to the backend cancel order API.  
+- Provided instant **UI feedback** after canceling an order.  
+- Updated the **README.md** with Milestone 28 progress.  
+- Committed and pushed all the changes to the **GitHub repository**. 
 
 
 # 🤮 Why Encrypt Passwords?
