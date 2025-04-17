@@ -304,6 +304,22 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 - Updated the **README.md** with milestone progress.  
 - Committed and pushed changes to the **GitHub repository**. 🚀
 
+Got it! Here's your **README.md** content for **🏆 Milestone 30** in the same format and tone as Milestone 29:
+
+---
+
+🏆 **Milestone 30: PayPal Payment Gateway Integration (Frontend)**
+
+- Installed and configured the **`@paypal/react-paypal-js`** package for PayPal integration.  
+- Wrapped the payment component with **`PayPalScriptProvider`** using the **Sandbox Client ID**.  
+- Successfully rendered the **PayPal payment buttons** using the **`PayPalButtons`** component.  
+- Ensured the PayPal buttons only display when **"Online Payment"** is selected via radio buttons.  
+- Connected PayPal to process test transactions via **sandbox environment**.  
+- Ensured smooth user experience during online payment flow.  
+- Validated that the integration is working with no frontend errors or crashes.  
+- Updated the **README.md** with milestone progress.  
+- Committed and pushed changes to the **GitHub repository**. 🚀  
+
 
 
 # 🤮 Why Encrypt Passwords?
