@@ -320,6 +320,21 @@ Got it! Here's your **README.md** content for **🏆 Milestone 30** in the same 
 - Updated the **README.md** with milestone progress.  
 - Committed and pushed changes to the **GitHub repository**. 🚀  
 
+Here's the `README.md` content for **🏆 Milestone 31: Redux Global State Management**, following the same structure and tone as before:
+
+---
+
+🏆 **Milestone 31: Redux Global State Management**
+
+- Installed **`react-redux`** and necessary dependencies for global state management.  
+- Created a new **`store`** folder with `store.js` and `userActions.js` files.  
+- Configured the **Redux store** in `store.js` using `configureStore` and a **userReducer**.  
+- Created a **`setEmail` action** inside `userActions.js` to handle storing user email.  
+- Implemented a **userReducer** to update the global email state.  
+- Wrapped the **`App` component** with Redux `<Provider>` in `index.js` and passed the store as a prop.  
+- Successfully set up the foundation for accessing and modifying email globally across components.  
+- Updated the **README.md** to reflect the milestone's progress.  
+- Committed and pushed changes to the **GitHub repository**. 🚀  
 
 
 # 🤮 Why Encrypt Passwords?
