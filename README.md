@@ -341,6 +341,16 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 -  Updated the **README.md** to reflect the milestone progress.  
 -  Committed and pushed all changes to the **GitHub repository**. 🚀  
 
+🏆 **Milestone 33: Saving Password and Setting Username in Cookie**
+
+- Implemented functionality to **save user password** and **set username in cookies** after successful login.  
+- Used **`js-cookie`** library to manage cookies for **storing user credentials securely**.  
+- Configured cookies to persist the username across sessions, allowing for a smoother user experience.  
+- Added a **cookie expiration** mechanism for session management.  
+- Implemented **cookie-based authentication** to retain user information between page refreshes.  
+- Verified that the username is properly displayed and maintained throughout the app, even after closing and reopening the browser.  
+- Updated **README.md** to summarize the progress for this milestone.  
+- Committed and pushed changes to the **GitHub repository**. 🚀  
 
 # 🤮 Why Encrypt Passwords?
 - 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
