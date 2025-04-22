@@ -304,10 +304,6 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 - Updated the **README.md** with milestone progress.  
 - Committed and pushed changes to the **GitHub repository**. 🚀
 
-Got it! Here's your **README.md** content for **🏆 Milestone 30** in the same format and tone as Milestone 29:
-
----
-
 🏆 **Milestone 30: PayPal Payment Gateway Integration (Frontend)**
 
 - Installed and configured the **`@paypal/react-paypal-js`** package for PayPal integration.  
@@ -320,9 +316,6 @@ Got it! Here's your **README.md** content for **🏆 Milestone 30** in the same 
 - Updated the **README.md** with milestone progress.  
 - Committed and pushed changes to the **GitHub repository**. 🚀  
 
-Here's the `README.md` content for **🏆 Milestone 31: Redux Global State Management**, following the same structure and tone as before:
-
----
 
 🏆 **Milestone 31: Redux Global State Management**
 
@@ -335,6 +328,18 @@ Here's the `README.md` content for **🏆 Milestone 31: Redux Global State Manag
 - Successfully set up the foundation for accessing and modifying email globally across components.  
 - Updated the **README.md** to reflect the milestone's progress.  
 - Committed and pushed changes to the **GitHub repository**. 🚀  
+
+
+🏆 **Milestone 32: Accessing Email from Redux Global State**
+
+-  Used **Redux Dispatch** in the **Login page** to store the user’s email in global state.  
+-  Implemented the **`setEmail` action** to update the state when the user logs in.  
+-  Accessed the **stored email** across multiple pages using **`useSelector`** from Redux.  
+-  Verified the email is accessible and consistent across all major components/pages.  
+-  Demonstrated effective **global state sharing** across the React application.  
+-  Improved overall **state management** and **data consistency** throughout the app.  
+-  Updated the **README.md** to reflect the milestone progress.  
+-  Committed and pushed all changes to the **GitHub repository**. 🚀  
 
 
 # 🤮 Why Encrypt Passwords?
