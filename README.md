@@ -352,6 +352,17 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 - Updated **README.md** to summarize the progress for this milestone.  
 - Committed and pushed changes to the **GitHub repository**. 🚀  
 
+🏆 **Milestone 34: Saving the Token and Setting It in the Cookie**
+
+- Implemented functionality to **extract the JWT token** from the **cookie** and send it to the server.  
+- Developed **middleware on the backend** to validate the JWT token sent from the client.  
+- Ensured that **only authenticated users** can access certain pages by validating the JWT token in each page request.  
+- Set up **cookie-based authentication** to store the token and preserve user login status across sessions.  
+- Secured routes by verifying the JWT token in the **backend middleware** before processing the request.  
+- Ensured **login protection** so users cannot access restricted pages without being logged in.  
+- Updated **README.md** to summarize the progress for this milestone.  
+- Committed and pushed changes to the **GitHub repository**. 🚀  
+
 # 🤮 Why Encrypt Passwords?
 - 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
 - ⚖️ **Privacy**: Prevents passwords from being visible to anyone.
