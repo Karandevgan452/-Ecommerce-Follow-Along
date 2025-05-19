@@ -363,6 +363,17 @@ In this milestone, we successfully implemented the backend endpoint for the cart
 - Updated **README.md** to summarize the progress for this milestone.  
 - Committed and pushed changes to the **GitHub repository**. 🚀  
 
+🏆 **Milestone 35: Deploying the Full-Stack Project**
+
+* Deployed the **backend** to a cloud platform (e.g., Render, Railway, or Cyclic) and obtained the live backend URL.
+* Updated the **frontend API calls** to replace `localhost` with the deployed backend URL.
+* Deployed the **frontend** using platforms like Vercel or Netlify to make the UI publicly accessible.
+* Verified that both **frontend and backend** are connected and working correctly in the deployed environment.
+* Performed end-to-end testing to ensure all features (authentication, CRUD operations, etc.) work seamlessly after deployment.
+* Documented the **deployment steps and links** in the `README.md` file.
+* Committed all changes and **pushed to the GitHub repository**. 🚀
+
+
 # 🤮 Why Encrypt Passwords?
 - 🔒 **Protect User Data**: Ensures passwords are safe even if the database is compromised.
 - ⚖️ **Privacy**: Prevents passwords from being visible to anyone.
